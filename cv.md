@@ -32,7 +32,7 @@
             <pre>
             function multiply(a, b){
 
-                return a * b
+                return a * b;
 
             }
             </pre>
@@ -41,7 +41,7 @@
         <hr>
         <ul>
             <li> Education: social and humanitarian college (programmer technician) </li>
-            <li> Responsive Web Design on the <a href = "freecodecamp.org">freecodecamp</a> </li>
+            <li> Responsive Web Design on the <a href = "https://www.freecodecamp.org">freecodecamp</a> </li>
             <li> HTML Basic on the <a href = "https://code-basics.com/ru">code-basics</a> (completed)</li>
             <li> CSS Basic on the <a href = "https://code-basics.com/ru">code-basics</a> (completed)</li>
             <li> Javascript Basic on the <a href = "https://code-basics.com/ru">code-basics</a>(completed)</li>
